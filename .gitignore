@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+data/*.parquet
 data/inprogress
 *.pickle
 *.ddb
