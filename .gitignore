@@ -3,9 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+data/inprogress
+*.pickle
+*.ddb
+data/*.csv
+data/*/*csv
+data/*.ddb
+.jupyter/
 # C extensions
 *.so
-
+.DS_Store
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,9 @@
+gower
+matplotlib
+networkx
+numpy
+pandas
+seaborn
+sklearn
+sklearn_extra
+ydata_profiling
